@@ -1,6 +1,8 @@
 
 [PT-BR]
 Esse é meu primeiro projeto feito em HTML/JavaScript, com referência ao jogo Space Invaders.
+O jogo é funcional apenas para navegadores, os comandos de movimentação são "A" e "D" e para
+atirar pressione "Enter" no teclado.
 
 A alteração dos personagens foi feita com o intuito de ser utilizado nos eventos
 da empresa, visto que o projeto "casa" muito bem com o produto da empresa, usando a
